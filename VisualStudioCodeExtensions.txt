@@ -1,0 +1,6 @@
+Codeium
+ES7 React/Redux/React-Native
+EsLint
+LiveServer
+Material Icon Theme
+Python
